@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-alterando 2
-=======
-alterando
->>>>>>> 6aee40e5ef58fe093c56bb783850fccc8e96bca3
+teste 1
+teste 2
